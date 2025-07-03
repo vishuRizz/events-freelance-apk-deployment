@@ -173,7 +173,7 @@ const EventsAppLanding = () => {
                 
                 <div className="flex gap-3">
                 <a
-                  href="https://expo.dev/artifacts/eas/5C3vbbK5W4QqxrFVQeBtpt.apk"
+                  href="https://expo.dev/artifacts/eas/tLw9M8V2rCs2wLxM57G8H4.aab"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
